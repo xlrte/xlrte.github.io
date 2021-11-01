@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxlrte_dev=self.webpackChunkxlrte_dev||[]).push([[698],{3649:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/xlrte","name":"xlrte","count":1,"permalink":"/blog/tags/xlrte"}')}}]);
