@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxlrte_dev=self.webpackChunkxlrte_dev||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Announcing xlrte v0.1","permalink":"/blog/announcing-xlrte-0-1"}]}')}}]);
